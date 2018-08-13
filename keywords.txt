@@ -1,0 +1,14 @@
+TwoWheelRobot	KEYWORD1
+setMovementMode	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+left	KEYWORD2 
+right	KEYWORD2
+forwardLeft	KEYWORD2
+backwardLeft	KEYWORD2
+forwardRight	KEYWORD2
+backwardRight	KEYWORD2
+stop	KEYWORD2
+speedUp	KEYWORD2
+slowDown	KEYWORD2
+setSpeed	KEYWORD2
